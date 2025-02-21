@@ -1,0 +1,15 @@
+persona:
+  nombre: Juan
+  edad: 28
+  direccion:
+    calle: Calle Ficticia 123
+    ciudad: Ciudad Ejemplo
+    pais: País Ficticio
+  telefono:
+    casa: 123456789
+    movil: 987654321
+  hobbies:
+    - leer
+    - viajar
+    - deportes
+  casado: false
