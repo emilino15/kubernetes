@@ -17,8 +17,8 @@ spec:
       labels:
         app: mydeployment
     spec:
-      containers:
-      - image: nginx
+      containers: 
+      - image: nginx:1.27-perl
         name: nginx
         resources: {}
 status: {}
